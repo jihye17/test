@@ -1,0 +1,1 @@
+gcc -o hello hello.c hello_Runner.c testHello.c ../../src/unity.c -I../../src
